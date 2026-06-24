@@ -12,9 +12,6 @@ STCN/
 # Virtual environment folders
 .venv/
 
-# Output / generated files
-output/
-
 # Local backups
 backup/
 
